@@ -1,1 +1,1 @@
-# filikula.github.io
+# redirecting to filikula.se
